@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-essam&label=Profile%20views&color=0e75b6&style=flat" alt="adel-essam" /> </p>
-<img align="center" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Coder" height="30" width="40" />
+<img align="center" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Coder" height="300" width="400" />
 
 - 📫 How to reach me adel.essam233@gmail.com
 
