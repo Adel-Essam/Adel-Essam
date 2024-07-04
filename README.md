@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Adel Essam</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=480&lines=I'm+a+Web+developer;I'm+a+Software+engineer" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Coder" height="400" width="500" />
